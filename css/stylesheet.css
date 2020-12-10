@@ -1,0 +1,16 @@
+
+#header{
+  width: 100%;
+  top: 0;
+  left: 0;
+  background:pink;
+  text-align:center;
+}
+
+header{
+  display:block;
+}
+.headerinn{
+  background: yellow;
+
+}
